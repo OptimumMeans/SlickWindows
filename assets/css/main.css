@@ -1,0 +1,31 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+:root {
+    --mainColor: #008aff;
+    --darkColorBlue: #13287e;
+    --grayColor: #474747;
+    --yellowColor: #ffe824;
+}
+
+/* Classes */
+.blue-color {
+    color: var(--mainColor);
+}
+
+.bg-blue {
+    background-color: #ecf6fe;
+}
+
+.dark-blue-color {
+    color: var(--darkColorBlue);
+}
+
+.gray-color {
+    color: var(--grayColor);
+}
+
+.yellow-color {
+    color: var(--yellowColor);
+}
